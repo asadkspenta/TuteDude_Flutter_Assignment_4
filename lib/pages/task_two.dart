@@ -21,12 +21,12 @@ class TaskTwo extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Image.asset(
-                  'images/dice${diceProvider.leftDice}.png',
+                  'assets/images/dice${diceProvider.leftDice}.png',
                   width: 100,
                   height: 100,
                 ),
                 Image.asset(
-                  'images/dice${diceProvider.rightDice}.png',
+                  'assets/images/dice${diceProvider.rightDice}.png',
                   width: 100,
                   height: 100,
                 ),

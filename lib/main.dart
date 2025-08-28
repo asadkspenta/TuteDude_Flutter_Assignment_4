@@ -2,7 +2,6 @@ import 'package:assignment_four_tutedue/pages/Home.dart';
 import 'package:assignment_four_tutedue/provider/dice_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import 'provider/cat_dog_provider.dart';
 import 'provider/colour_provider.dart';
 
